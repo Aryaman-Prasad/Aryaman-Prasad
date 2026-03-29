@@ -25,6 +25,8 @@ Reach me :
 - LinkedIn : https://www.linkedin.com/in/aryaman-prasad-b08959386/
 - Codeforces : https://codeforces.com/profile/Leviary
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryaman-Prasad)](https://github.com/Aryaman-Prasad/github-readme-stats)
+
 <!--
 **Aryaman-Prasad/Aryaman-Prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
