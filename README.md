@@ -1,5 +1,5 @@
 ## Hi
-I'm **Aryaman**, a B.Tech Sophomore at **IIT Bombay** majoring in **Computer Science**
+I'm **Aryaman**, a B.Tech Junior at **IIT Bombay** majoring in **Computer Science**
 
 I've worked on **Software Development, Reinforcement Leaening, Neural Networks, Algorithms and Formal Verification**
 
