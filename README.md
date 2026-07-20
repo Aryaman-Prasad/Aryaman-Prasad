@@ -1,17 +1,18 @@
 ## Hi
 I'm **Aryaman**, a B.Tech Sophomore at **IIT Bombay** majoring in **Computer Science**
 
-I've worked on **Reinforcement Leaening, Neural Networks, Algorithms and Formal Verification**
+I've worked on **Software Development, Reinforcement Leaening, Neural Networks, Algorithms and Formal Verification**
 
 Languages I primarily use : C/C++, python \
-Other languages I know : x86_64, make, LaTeX, bash, HTML, CSS, JS, english
+Other languages I know : x86_64, make, LaTeX, bash, Kotlin, HTML, CSS, JS, english
 
-Currently working on :
+Some things I've worked/am working on :
 
 - **Verifying Robustness of Neural Networks** : Appending layers onto neural networks to encode certain robustness properties, making verification easier for any tool
 - **Chess engine** : Building a chess engine from scratch using MCTS along with neural networks for effective rollout searches, with data-driven training and potential for self-play improvement
 - **SAT solver** : Building a SAT/SMT solver from scratch in C++
 - **Competitive Programming** : Regularly participating in contests and solving problems on platforms like Codeforces, CSES and Leetcode
+- **Music Generation** : Generating musical note sequences by building various Machine Learning models to predict subsequent notes, also looking to extend to raw audio signal sequences
 
 I enjoy learning and building, but the thing I enjoy most is **Teaching**, have worked as an Instructor/Teaching Assistant in various fields
 
